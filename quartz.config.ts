@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#eff1f5",       // Base (Background)
+          lightgray: "#e6e9ef",   // Mantle (Borders/Subtle backgrounds)
+          gray: "#bcc0cc",        // Surface1 (Metadata/Gray text)
+          darkgray: "#4c4f69",    // Text (Body text)
+          dark: "#1e1e2e",        // Headers (Darker text)
+          secondary: "#1e66f5",   // Blue (Links/Primary)
+          tertiary: "#8839ef",    // Mauve (Hover states)
+          highlight: "rgba(140, 143, 161, 0.15)", // Text Selection
         },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+      
+       darkMode: {
+      
+        light: "#1e1e2e",       // Base (Background)
+        lightgray: "#313244",   // Surface0 (Borders)
+        gray: "#6c7086",        // Overlay0 (Metadata)
+        darkgray: "#cdd6f4",    // Text (Body text)
+        dark: "#cdd6f4",        // Headers (Same as text or slightly brighter)
+        secondary: "#89b4fa",   // Blue (Links/Primary)
+        tertiary: "#cba6f7",    // Mauve (Hover states)
+        highlight: "rgba(147, 153, 178, 0.15)", // Text Selection
         },
       },
     },
