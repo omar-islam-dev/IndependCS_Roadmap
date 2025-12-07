@@ -1,6 +1,7 @@
 # 🌱 My Digital Garden & Second Brain
 
 A living, networked knowledge base documenting my journey into Data Engineering,omar-islam-dev Linux, and System Administration.
+
 ![Build Status](https://img.shields.io/github/actions/workflow/status/omar-islam-dev/IndependCS_Roadmap/deploy.yml?label=Build&style=flat-square&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/omar-islam-dev/IndependCS_Roadmap?style=flat-square&color=89b4fa)
 ![Repo Size](https://img.shields.io/github/repo-size/omar-islam-dev/IndependCS_Roadmap_NAME?style=flat-square&color=f38ba8)
