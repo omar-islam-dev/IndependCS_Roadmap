@@ -1,0 +1,2 @@
+- **sshd** (Secure Shell Daemon) is a server component that allows secure remote access to the system using the **SSH** (Secure Shell) protocol,The **sshd** daemon handles incoming **SSH** connections and authenticates remote users, ensuring secure and encrypted communication between the client and server.
+[source](https://www.scaler.com/topics/linux-sshd/)
