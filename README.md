@@ -15,7 +15,7 @@
 
 # 🌱 My Digital Garden & Second Brain
 
-A living, networked knowledge base documenting my journey into Data Engineering,omar-islam-dev Linux, and System Administration.
+A living, networked knowledge base documenting my journey into Data Engineering,Linux, and System Administration.
 
 ## ⚡️ TL;DR
 This repository is a continuously growing Second Brain.
