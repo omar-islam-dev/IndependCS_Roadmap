@@ -54,7 +54,7 @@ All transformer plugins must define at least a `name` field to register the plug
 
 Normally for both `remark` and `rehype`, you can find existing plugins that you can use to . If you'd like to create your own `remark` or `rehype` plugin, checkout the [guide to creating a plugin](https://unifiedjs.com/learn/guide/create-a-plugin/) using `unified` (the underlying AST parser and transformer library).
 
-A good example of a transformer plugin that borrows from the `remark` and `rehype` ecosystems is the [[plugins/Latex|Latex]] plugin:
+A good example of a transformer plugin that borrows from the `remark` and `rehype` ecosystems is the [[docs/plugins/Latex|Latex]] plugin:
 
 ```ts title="quartz/plugins/transformers/latex.ts"
 import remarkMath from "remark-math"

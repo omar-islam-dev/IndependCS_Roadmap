@@ -28,4 +28,4 @@ Under the default configuration, a citation key `[@templeton2024scaling]` will b
 
 ## Customization
 
-Citation parsing is a functionality of the [[plugins/Citations|Citation]] plugin. **This plugin is not enabled by default**. See the plugin page for customization options.
+Citation parsing is a functionality of the [[docs/plugins/Citations|Citation]] plugin. **This plugin is not enabled by default**. See the plugin page for customization options.
