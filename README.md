@@ -1,12 +1,21 @@
+<div align="center">
+  <img src="/content/images/banner.jpg" width="100%" alt="Omar's Digital Garden Banner" />
+  
+  <br/>
+
+  <p>
+    <img src="https://img.shields.io/github/last-commit/omar-islam-dev/IndependCS_Roadmap?style=flat-square&color=89b4fa" alt="Last Commit">
+    <img src="https://img.shields.io/github/repo-size/omar-islam-dev/IndependCS_Roadmap?style=flat-square&color=f38ba8" alt="Repo Size">
+    <img src="https://img.shields.io/github/license/omar-islam-dev/IndependCS_Roadmap?style=flat-square&color=a6e3a1" alt="License">
+    <img src="https://img.shields.io/badge/Deploy-Cloudflare%20Pages-f38ba8?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Deploy">
+    <img src="https://img.shields.io/badge/Quartz-v4-f9e2af?style=flat-square&logo=quartz" alt="Quartz Version">
+  </p>
+
+</div>
+
 # 🌱 My Digital Garden & Second Brain
 
 A living, networked knowledge base documenting my journey into Data Engineering,omar-islam-dev Linux, and System Administration.
-
-![Last Commit](https://img.shields.io/github/last-commit/omar-islam-dev/IndependCS_Roadmap?style=flat-square&color=89b4fa)
-![Repo Size](https://img.shields.io/github/repo-size/omar-islam-dev/IndependCS_Roadmap?style=flat-square&color=f38ba8)
-![License](https://img.shields.io/github/license/omar-islam-dev/IndependCS_Roadmap?style=flat-square&color=a6e3a1)
-![Deploy](https://img.shields.io/badge/Deploy-Cloudflare%20Pages-f38ba8?style=flat-square&logo=cloudflarepages&logoColor=white)
-![Quartz Version](https://img.shields.io/badge/Quartz-v4-f9e2af?style=flat-square&logo=quartz)
 
 ## ⚡️ TL;DR
 This repository is a continuously growing Second Brain.
