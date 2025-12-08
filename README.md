@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/quartz/banner.png" width="100%" alt="Omar's Digital Garden Banner" />
+  <img src="banner.png" width="100%" alt="Omar's Digital Garden Banner" />
   
   <br/>
 
