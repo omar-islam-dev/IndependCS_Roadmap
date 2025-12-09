@@ -1,10 +1,3 @@
----
-banner: https://upload.wikimedia.org/wikipedia/commons/4/45/Qemu_logo.svg
-banner-x: 55
-banner-y: 100
-banner-height: 460
-content-start: 441
----
 # what is QEMU ?
 - QEMU is a virtualization platform that uses dynamic **binary translation**,to emulate computers processors,made by fabrice bellard.
 # how it works ?

@@ -1,9 +1,3 @@
----
-banner: https://upload.wikimedia.org/wikipedia/commons/7/70/Kvmbanner-logo2_1.png
-banner-x: 50
-banner-y: 32
-content-start: 311
----
 # what is kvm?
 - kvm is a virtualization module,made by **Qumranet** and developed by linux kernel community,written in *C* 
 
