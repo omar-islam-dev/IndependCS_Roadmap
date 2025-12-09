@@ -18,5 +18,3 @@ content-start: 311
 
 [source](https://blogs.learningdevops.com/how-kvm-qemu-actually-works-a-real-deep-dive-550063a001e2)
 
-
----

@@ -14,4 +14,3 @@ content-start: 391
 ![[libvirt-kvm-workflow.png|700]]
 [source](https://docs.netapp.com/us-en/netapp-solutions-virtualization/kvm/kvm-overview.html#overview-of-components)
 
----

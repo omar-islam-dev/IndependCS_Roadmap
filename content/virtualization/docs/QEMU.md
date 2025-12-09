@@ -26,4 +26,3 @@ Because things like the graphics card..... storage.... network cards are statefu
 
 Hard Disk: The Host holds the hard drive and writes a file. If the VM enters and writes in the same place directly without supervision.. the data will Corrupt.
 
----
