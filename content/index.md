@@ -1,11 +1,7 @@
 ---
 title: Welcome to my Digital Garden
+description: " A living, networked knowledge base documenting my journey into Data Engineering, Linux, and System Administration."
 ---
-![[banner.png]]
-
-description: A living, networked knowledge base documenting my journey into Data Engineering, Linux, and System Administration.
-
-
 Hello there! 👋 I'm **Omar**.
 
 You have just entered my **Digital Garden** (or my Second Brain). Unlike a traditional blog where posts are static and ordered by date, this is a network of interconnected ideas that evolve over time.
