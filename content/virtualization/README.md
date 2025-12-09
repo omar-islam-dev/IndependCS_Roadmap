@@ -16,8 +16,9 @@ The structure of this folder will be as follows:
 ```
 virtualization/
 ├── docs/        # Concise explanations of the core stack (Libvirt, KVM, QEMU) to build my mental model
-├── notes/       # My personal observations, questions, and troubleshooting logs
-└── assets/      # Diagrams and visual aids (Excalidraw)
+├── logs/
+├── Exaclidraw-images
+└── assets/     
 ```
 
 ---
