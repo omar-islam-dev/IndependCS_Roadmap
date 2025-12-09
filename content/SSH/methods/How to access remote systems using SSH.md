@@ -1,5 +1,5 @@
-- The OpenSSH suite contains tools such as [[SSHD]], [[SCP]], [[SFTP]], and others that encrypt all traffic between your local host and a remote server.
-- The [[SSHD]] daemon, which runs on the remote server, accepts connections from clients on a TCP port. SSH uses port 22 by default, but you can change this to a different port. To initiate an SSH connection to a remote system, you need the Internet Protocol (IP) address or hostname of the remote server and a valid username. You can connect using a password or a private and **public key pair**. *Because passwords and usernames can be brute-forced, it's recommended to use SSH keys*.
+- The OpenSSH suite contains tools such as [[🌿SSHD]], [[🌿SCP]], [[🌿SFTP]], and others that encrypt all traffic between your local host and a remote server.
+- The [[🌿SSHD]] daemon, which runs on the remote server, accepts connections from clients on a TCP port. SSH uses port 22 by default, but you can change this to a different port. To initiate an SSH connection to a remote system, you need the Internet Protocol (IP) address or hostname of the remote server and a valid username. You can connect using a password or a private and **public key pair**. *Because passwords and usernames can be brute-forced, it's recommended to use SSH keys*.
 
 # initializing SSH service
 - on my machine that runs **NixOS** i didn't need to install SSH as the source said 
