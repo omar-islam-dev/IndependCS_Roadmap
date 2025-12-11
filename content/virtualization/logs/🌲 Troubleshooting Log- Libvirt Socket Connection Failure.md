@@ -1,8 +1,8 @@
-### **Troubleshooting Log: Libvirt Socket Connection Failure**
+### **Troubleshooting Log: [[🌿 libvirt]] Socket Connection Failure**
 
 Date: November 30, 2025
 
-Context: Initial attempt to create a NixOS VM using virt-manager (QEMU/KVM).
+Context: Initial attempt to create a NixOS VM using virt-manager ([[🌿 QEMU]]/[[🌿 KVM]]).
 
 #### 1. The Issue
 

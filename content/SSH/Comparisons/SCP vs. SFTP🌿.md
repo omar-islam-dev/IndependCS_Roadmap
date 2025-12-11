@@ -1,7 +1,4 @@
-**scp** is a program for copying files between computers. It uses the SSH protocol. It is included by default in most Linux and Unix distributions. It is also included in the **Tectia SSH** and **OpenSSH** packages.
-[Source](https://www.ssh.com/academy/ssh/scp)
-
-# What's the difference between SCP and SFTP?
+# What's the difference between [[SCP🌿]]and [[SFTP🌿]]?
 
 - found the answer in superuser.com, written by [jarvin](https://superuser.com/users/5003/jarvin) quoted form quoted from [Wikipedia](http://en.wikipedia.org/wiki/SSH_file_transfer_protocol):
 
