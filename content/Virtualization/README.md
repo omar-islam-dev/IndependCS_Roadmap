@@ -9,15 +9,24 @@ I didn't just dump random technical definitions for Libvirt, KVM, and QEMU into 
 
 Definitely. My plan is to eventually dive deeper into low-level architecture and hardware emulation. However, for now, I am keeping the scope focused. I only want to understand the primitives necessary to facilitate a smooth migration to NixOS without getting lost in the weeds.
 
-# Folder Structure
+# Directory Structure
 
-The structure of this folder will be as follows:
+This folder is organized into four main categories:
 
-```
-virtualization/
-├── docs/       
-├── logs/
-├── Exaclidraw-images
-└── assets/     
-```
+## Assets
+- [[error virtsoraged-sock.png]]
+- [[feels-dumb.png]]
+- [[Pasted image 20251130163204.png]]
+- [[QEMU-KVM-talking.png]]
 
+## Docs
+- [[KVM 🌿]]
+- [[libvirt 🌿]]
+- [[QEMU 🌿]]
+  
+  ## exaclidraw-images
+- [[libvirt-kvm-workflow.png]]
+- [[QEMU-KVM-talking.png]]
+
+## logs
+- [[Troubleshooting Log- Libvirt Socket Connection Failure 🌲]]
