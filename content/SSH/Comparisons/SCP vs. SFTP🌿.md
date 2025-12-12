@@ -1,6 +1,6 @@
 # What's the difference between [[SCP🌿]]and [[SFTP🌿]]?
 
-- found the answer in superuser.com, written by [jarvin](https://superuser.com/users/5003/jarvin) quoted form quoted from [Wikipedia](http://en.wikipedia.org/wiki/SSH_file_transfer_protocol):
+- found the answer in superuser.com, written by [jarvin](https://superuser.com/users/5003/jarvin) quoted from [Wikipedia](http://en.wikipedia.org/wiki/SSH_file_transfer_protocol):
 
 > Compared to the earlier SCP protocol, which allows only file transfers, the SFTP protocol allows for a range of operations on remote files – it is more like a remote file system protocol. An SFTP client's extra capabilities compared to an SCP client include resuming interrupted transfers, directory listings, and remote file removal. [1] For these reasons it is relatively simple to implement a GUI SFTP client compared with a GUI SCP client.
 
