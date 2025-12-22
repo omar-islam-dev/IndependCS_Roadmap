@@ -32,3 +32,6 @@ This garden is open-source. If you find an error or want to discuss a topic, fee
 - **LinkedIn**: [Omar Islam](https://www.linkedin.com/in/omar-islam-dev/)
 
 _Built with [Quartz 4.0](https://quartz.jzhao.xyz/)._
+
+
+

@@ -4,7 +4,7 @@
 - QEMU emulates computer processors using binary translation which is slower than using [[KVM 🌿]],but it's very useful in scenarios like when you want to emulate an **aarch64** system that use *ARM*, QEMU emulates system requirements like networking and storage and cpu instructions using **binary translation** 
 
 >[!note]
->so what is the differences between QEMU and libvirt ?
+>so what is the differences between QEMU and [[libvirt 🌿]] ?
 >- QEMU emulate hardware like network card
 >- libvirt manage the emulated network card, using virtual bridge,DHCP, and firewall rules
 
