@@ -4,7 +4,7 @@
 ---
 
 # 🧠 CORE
-- [[Arch/README|README]]
+- [[Linux/Arch/README|README]]
 
 ## 🧩 Compatibility
 - [[🌿 electron-compatibility]]
