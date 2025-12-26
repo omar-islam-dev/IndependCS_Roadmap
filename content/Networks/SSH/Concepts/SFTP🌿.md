@@ -3,7 +3,7 @@ Secure File Transfer Protocol (SFTP) is a standard networking protocol for the s
 
 [source](https://aws.amazon.com/what-is/sftp/)
 
-SFTP has pretty much replaced legacy [FTP](https://www.ssh.com/ssh/ftp/) as a file transfer protocol, and is quickly replacing [FTP/S](https://www.ssh.com/academy/ssh/ftp/ftps). It provides all the functionality offered by these protocols, but more securely and more reliably, with easier configuration. There is basically no reason to use the legacy protocols any more.
+SFTP has pretty much replaced legacy [[FTP🌿]] as a file transfer protocol, and is quickly replacing [FTP/S](https://www.ssh.com/academy/ssh/ftp/ftps). It provides all the functionality offered by these protocols, but more securely and more reliably, with easier configuration. There is basically no reason to use the legacy protocols any more.
 
 [source](https://www.ssh.com/academy/ssh/sftp-ssh-file-transfer-protocol)
 
