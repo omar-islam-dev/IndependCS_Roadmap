@@ -21,6 +21,3 @@ i searched about it on reddit and found the solution on [r/linux4noobs](https://
 	Systemd is complaining because it tries to get authentication but can't because you're logged in via ssh.  
 	`sudo reboot` should do the trick.
 
----
-
-

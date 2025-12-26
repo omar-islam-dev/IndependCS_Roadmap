@@ -81,4 +81,3 @@ get -r remote_folder_name
 thanks to **Justin Ellingwood** and **Anish Singh Walia**
 for the simple and straight forward documentation.
 
----

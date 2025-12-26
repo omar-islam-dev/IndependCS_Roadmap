@@ -8,4 +8,3 @@ SFTP has pretty much replaced legacy [[FTP🌿]] as a file transfer protocol, an
 [source](https://www.ssh.com/academy/ssh/sftp-ssh-file-transfer-protocol)
 
 
---- 

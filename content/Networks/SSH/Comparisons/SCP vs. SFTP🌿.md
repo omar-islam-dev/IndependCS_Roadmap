@@ -14,4 +14,3 @@ also on Wikipedia [SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol)
 ## conclusion
 in my case i won't use `scp` due to outdated problems although SCP is faster than SFTP especially on high latency networks,but in my case the speed that scp offers doesn't come over the functionality and supporting operations like SFTP
 
----
