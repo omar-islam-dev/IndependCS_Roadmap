@@ -20,26 +20,3 @@ Termux acts as my Digital Pocket Knife. It might not be my main weapon, but it s
 Will I use it every day? Probably not.
 Will I need it one day? I am 100% sure I will.
 
----
-
-##  Directory Structure
-
-This folder is organized into four main categories:
-
-## comparisons
-- [[SCP vs. SFTP🌿]] 
-- [[SFTP vs. FTPS🌿]]
-  
-## concepts
-- [[SCP🌿]]
-- [[SFTP🌿]]
-- [[SSHD🌿]]
-
-## how to
-- [[how to connect with SFTP🌿]]
-- [[How to access remote systems using SSH🌿]]
-- [[How to connect remotely using SSH from outside the local network 🌿]]
-
-## logs
-- [[can_t reboot or shutdown system via SSH🌲]]
-  
