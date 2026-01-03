@@ -6,5 +6,8 @@
 # 🧠 CORE
 - [[Linux/Arch/README|README]]
 
-## 🧩 Compatibility
+## 🧩 Arch-Compatibility
 - [[🌿 electron-compatibility]]
+
+# Arch-installation 
+- [[Verifying Signature🌱]]

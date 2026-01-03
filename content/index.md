@@ -5,7 +5,7 @@ Hello there! 👋 I'm **Omar**.
 
 You have just entered my **Digital Garden** (or my Second Brain). Unlike a traditional blog where posts are static and ordered by date, this is a network of interconnected ideas that evolve over time.
 
-I am a Statistics student at **FEPS**, currently pivoting into **Data Engineering**. I use this space to practice "Learning in Public"—documenting my technical decisions, troubleshooting logs, and theoretical understanding of systems.
+I am a Statistics student at **FEPS** (Faculty of Economics and Political Science, Cairo University), currently pivoting into **Data Engineering**. I use this space to practice "Learning in Public"—documenting my technical decisions, troubleshooting logs, and theoretical understanding of systems.
 
 ---
 
