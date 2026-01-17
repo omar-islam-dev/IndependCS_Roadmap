@@ -13,7 +13,7 @@
 
 # What is the goal of this documentation?
 - **Troubleshooting Reference:** A quick lookup for problems I've faced before. The **`/logs`** folder will be crucial for saving time instead of researching on internet for the same error twice.
-- **Simplified Wiki:** A place to explain complex Arch Wiki articles in a friendly way.
+- **Simplified Personal Wiki:** A place to explain complex Arch Wiki articles in a friendly way.
 
 # How much will this folder expand?
 - YES.
