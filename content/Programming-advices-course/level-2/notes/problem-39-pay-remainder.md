@@ -1,5 +1,5 @@
 # Problem
-Write a program to read a **TotalBill** and **CashPaid** and calculate the remainder to be paid back
+Write a program to read a **TotalBill** and **CashPaid** and calculate the **remainder** to be paid back
 
 ---
 
