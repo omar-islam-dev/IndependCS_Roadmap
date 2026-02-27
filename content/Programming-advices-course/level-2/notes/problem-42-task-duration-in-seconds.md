@@ -1,4 +1,4 @@
-# Problem
+ # Problem
 
 Write a program to calculate the task duration in seconds and print it on screen 
 
