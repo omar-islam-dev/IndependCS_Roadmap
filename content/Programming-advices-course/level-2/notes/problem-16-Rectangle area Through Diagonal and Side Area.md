@@ -2,9 +2,11 @@
 
 Write a program to calculate rectangle area through diagonal and side area of
 rectangle and print it on the screen.
-The use should enter:
+The user should enter:
 a
 d
+![[Pasted image 20260309072519.png]]
+
 
 similar to [[problem-15-Rectangle Area]]
 

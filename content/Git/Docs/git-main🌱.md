@@ -1,8 +1,5 @@
 # Git History
 
-> Note: This section will be a discussion about Git and its history in my own style and narrative… I’ll add my part later when I have a stable internet connection so I can research it properly 🤡🤡
-
----
 # Git Architecture 
 ![[git-architecture.png]]
 
