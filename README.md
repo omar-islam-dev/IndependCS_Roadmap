@@ -15,7 +15,7 @@
 
 # 🌱 My Digital Garden & Second Brain
 
-A living, networked knowledge base documenting my journey into Computer Science, Linux, and System Administration.
+A living, networked knowledge base documenting my journey into Computer Science, Linux, networks and backend.
 
 ## ⚡️ TL;DR
 This repository is a continuously growing Second Brain.
@@ -31,7 +31,7 @@ I’m not reinventing the wheel; instead, I’m building a personalized, high-si
     Simplified, workflow-ready notes distilled from official sources (DigitalOcean, Red Hat, Arch Wiki, etc.).
 
 * **Technical Decisions**
-    Explanations detailing *why* I choose certain paths — e.g., preferring `ed25519` over `RSA`, or using `SFTP` instead of `SCP`.
+    Explanations detailing *why* I choose certain paths.
 
 * **Troubleshooting Logs**
     Real-world problems, cleanly documented with causes, attempted solutions, and final resolutions.
@@ -43,26 +43,19 @@ I’m not reinventing the wheel; instead, I’m building a personalized, high-si
 This repository is not a linear set of files — it’s a network of connected concepts built with Wikilinks (`[[Like This]]`).
 
 ### Main Structure
-* **Topic Folders:** Each major technology (SSH, NixOS, Arch Linux, etc.) has its own directory.
-* **Log Directories:** Every topic includes a `logs/` folder with documented troubleshooting steps.
+* **Topic Folders:** Each major technology (SSH, NixOS, Arch Linux,Backend, etc.) has its own directory.
 * **Interlinked Notes:** Concepts link to each other to form a knowledge graph.
-
-### Workflow
-> Aggregate Docs → Experiment → Solve → Document → Link → Review
 
 ---
 
 ## 🎯 Motivation
 
 ### 1. Personal: Efficiency & Retention
-This garden removes repeated searching.
-Need Git initialization steps? Virt-manager configs? SSH hardening notes? They’re all one link away.
-This keeps my workflow efficient and prevents unnecessary bottlenecks — whether I'm solo or on a team.
+Documenting my mistakes and what I learned, to make revision easier and more efficient.
 
 ### 2. Public: Community Value
 * **For Juniors:** Clear examples of how a beginner navigates complex topics while staying organized.
 * **For Seniors/Mentors:** A transparent look at how I reason about decisions, structure knowledge, and troubleshoot systems.
-* **For Quick Reference Users:** Clean, concise docs with zero fluff.
 
 ---
 
