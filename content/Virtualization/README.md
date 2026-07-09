@@ -7,4 +7,4 @@ I didn't just dump random technical definitions for Libvirt, KVM, and QEMU into 
 
 # Will this project expand?
 
-Definitely. My plan is to eventually dive deeper into low-level architecture and hardware emulation. However, for now, I am keeping the scope focused. I only want to understand the primitives necessary to facilitate a smooth migration to NixOS without getting lost in the weeds...
+Definitely. My plan is to eventually dive deeper into low-level architecture and hardware emulation. However, for now, I am keeping the scope focused. I only want to understand the primitives necessary to facilitate a smooth migration to NixOS without getting lost in the weeds
