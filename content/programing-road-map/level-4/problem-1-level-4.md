@@ -93,3 +93,5 @@ after searching and asking the AI, i discovered i really forgot about the Syntax
  -  i send the name `omar` to the procedure in completely wrong way the compiler dealt with it as a `variable` not a string, that's why the `not delared in this scope` error appeared, however if fixed this part without fixing the first one it will show a new error like `too many argument`, because again, the function doesn't have a parameter to receive a value or a string from the main function.
 
 after fixing these two issues, no other errors appeared.
+
+

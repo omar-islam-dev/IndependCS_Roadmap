@@ -25,6 +25,34 @@ Write a program to ask the user to enter his/her name and print it on screen.
 ## final code
 
 ```cpp
+#include <iostream>
+
+using namespace std;
+
+string read_user_name()
+{
+	string name; 
+
+	cout << "Please enter your name\n";
+		getline(cin, name);
+
+return name;
+
+}
+
+void print_user_name(string name)
+{
+	cout << "Your name is: " << name << endl;
+}
+
+
+int main()
+{
+	print_user_name(read_user_name());
+
+return 0;	
+
+}
 ```
 
 ---
@@ -108,4 +136,5 @@ so, when i asked the AI he told me that:
   
   unlike abo-hadhoud's code, which made the function be pure,
 
-- also the main function, was clean without initializing new variables, which is better and more lighter for the memory 
+- also the main function, was clean without initializing new variables, which is better and more lighter for the memory
+
