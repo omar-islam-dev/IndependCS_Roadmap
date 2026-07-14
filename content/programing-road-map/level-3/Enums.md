@@ -30,7 +30,7 @@ do i need to write `favourite_color` twice, i did initialize a variable called `
 i could just simply write `my_color = red;`.
 
 
-i asked the AI about that, and he told me the main reason for that is about backward compatibility with C Programming language, and how traditional  compilers actually works in C/C++.
+i asked the AI about that, and he told me the main reason for that is about backward compatibility with C Programming language, and how traditional  [[compiler]] actually works in C/C++.
 
 ### Here's a breakdown of why this happens:
 
